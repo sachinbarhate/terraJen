@@ -10,3 +10,4 @@ terraform {
     region         = "us-east-2"
     #dynamodb_table = "javahome-tf"
   }
+}
